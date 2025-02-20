@@ -620,6 +620,9 @@ display: none;
     border: none;
     margin-right: 100px;
   }
+  .firstmen .menu-button{
+    display: block;
+  }
 
 }
 .firstmen{display: flex;}
